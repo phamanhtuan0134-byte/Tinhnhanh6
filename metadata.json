@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TÍNH NHANH 6 – ỨNG DỤNG LUYỆN TOÁN CÓ GIỌNG NÓI AI",
+  "description": "Một ứng dụng học toán thân thiện bằng tiếng Việt dành cho học sinh lớp 6, có AI giọng nói giúp đọc đề, phản hồi đúng/sai, tạo cảm giác như học với một “thầy robot”. Luyện tập các phép tính số nguyên, phân số, phần trăm, biểu thức có ngoặc.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
